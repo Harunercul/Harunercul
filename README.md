@@ -8,7 +8,7 @@ and the plumbing that makes LLMs cheap and reliable at scale.
 - **[Libranotes](https://libranotes.ai)** — meeting bots for Meet, Zoom and Teams; diarized transcripts in 32 languages; agentic RAG with citations. Built solo.
 - **RL for games** — custom RL model serving real-time actions to an Unreal Engine 5 game; core of a ~30M TL TÜBİTAK R&D project.
 
-**Now building → [argrouter](https://github.com/Harunercul/argrouter)** — an LLM router that picks the model and reasoning effort per query from accuracy and real billed cost. **76.29 on [RouterArena](https://github.com/RouteWorks/RouterArena)**, level with the current #1.
+**Now building → [argrouter](https://github.com/Harunercul/argrouter)** — an LLM router that picks the model and reasoning effort per query from accuracy and real billed cost. Submitted to the [RouterArena](https://github.com/RouteWorks/RouterArena) router leaderboard (under review).
 
 <details>
 <summary><b>50+ internal agents and pipelines</b></summary>
